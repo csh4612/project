@@ -24,9 +24,9 @@ public class NaverMapApi {
 
 	private final static String API_URI = "https://naveropenapi.apigw.ntruss.com/map-geocode/v2/geocode?query=";
 	private final static String ID_HEADER = "x-ncp-apigw-api-key-id";
-	private final static String CLIENT_ID = "hevj9bqhd5";
+	private final static String CLIENT_ID = "";
 	private final static String SECRET_HEADER = "x-ncp-apigw-api-key";
-	private final static String CLIENT_SECRET = "vm6lMUhWxHjM39XfeRw0Dlf1sR7LiHfm77C8R1Q5";
+	private final static String CLIENT_SECRET = "";
 	private final static String ACCEPT_HEADER = "Accept";
 	private final static String VALUE_ACCEPT = "application/json";
 
